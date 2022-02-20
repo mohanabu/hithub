@@ -9,6 +9,10 @@ private void manoj() {
 	System.out.println("manoj ");
 
 }
+private void vinoth() {
+System.out.println("vinoth");
+
+}
 public static void main(String[] args) {
 	Task1 task  = new Task1();
 	task.manoj();
